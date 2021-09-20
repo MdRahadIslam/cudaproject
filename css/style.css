@@ -1,0 +1,429 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+.container{
+	width: 1140px;
+	margin: 0 auto;
+
+}
+
+header{
+	background: #87509C;
+    width: 100%;
+    float: left;
+    padding: 10px 0px;
+}
+
+.logo{
+	width: 40%;
+    float: left;
+}
+
+.menu{
+	width: 60%;
+    float: left;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	display: inline-block;
+    margin: 10px 27px;
+}
+
+nav ul li a{
+	text-decoration: none;
+	color: white;
+	font-size: 23px;
+}
+
+.banner-main{
+	width: 70%;
+    margin: 0 auto;
+    padding: 100px 0px 200px;
+}
+
+.banner-main h2{
+	text-align: center;
+    color: white;
+    text-transform: uppercase;
+    margin: 10px 0px;
+    line-height: 35px;
+    letter-spacing: 2px;
+}
+
+.btn-one{
+	margin: 0 auto;
+    display: block;
+    background: orange;
+    color: white;
+    padding: 15px 30px;
+    text-transform: uppercase;
+    font-size: 20px;
+    box-shadow: 1px 4px 2px #ffa500de;
+    border: none;
+}
+
+.service{
+	width: 100%;
+	float: left;
+	background: #45c3b8;
+	padding: 35px 0px;
+
+}
+
+.service-title{
+	width: 50%;
+	margin: 0px auto;
+	text-align: center;
+}
+
+.service-title h1{
+	text-transform: uppercase;
+    font-size: 30px;
+}
+
+.service-title span{
+	border-bottom: 2px solid black;
+    margin: 10px auto;
+    display: block;
+    width: 12%;
+}
+}
+
+.service-title p {
+	margin-bottom: 45px;
+   
+   
+
+}
+
+.service-one {
+	width: 25%;
+	float: left;
+	text-align: center;
+	margin-top: 50px;
+}
+
+
+.service-one h3 {
+	color: #ffffff;
+    text-align: center;
+    margin: 20px 2px;
+    font-size: 21px;
+}
+
+.service-one p {
+	color: #ffffff;
+    text-align: center;
+    margin: 0px 25px;
+    padding: 0px 5px;
+}
+
+.team-sec{
+	width: 100%;
+    float: left;
+    background: #bfbebe;
+    padding: 26px 0px;
+}
+
+.teamtext{
+	width: 50%;
+    text-align: center;
+    margin: 25px auto;
+}
+
+.teamtext h1{
+	text-transform: uppercase;
+    font-size: 30px;
+}
+
+.teamtext span{
+	border-bottom: 2px solid black;
+    width: 12%;
+    display: block;
+    margin: 10px auto;
+}
+
+.teamtext p{
+	    margin-bottom: 10px;
+    display: inline-block;
+}
+
+.teamarea{
+	width: 25%;
+    float: left;
+    text-align: center;
+    margin: 0px;
+}
+
+.teamarea img{
+	width: 200px;
+    padding-bottom: 20px;
+}
+
+.teamarea h3{
+	text-transform: uppercase;
+    margin: 2px 0px;
+    font-size: 20px;
+}
+
+.teamarea h5{
+	color: purple;
+    display: inline-block;
+    margin-bottom: 20px;
+}
+
+.teamarea p{
+	padding: 0px 30px;
+}
+
+.social-icon{
+	color: white;
+    margin: 1px auto;
+    display: inline-block;
+}
+
+.social-icon ul{
+	list-style: none;
+}
+
+.social-icon ul li{
+	float: left;
+    margin: 10px 12px;
+}
+
+.fa.fa-facebook{
+	background: gray;
+    padding: 6px 11px;
+    border-radius: 20px;
+}
+
+.fa.fa-twitter{
+	background: gray;
+    padding: 6px 9px;
+    border-radius: 30px;
+}
+
+.fa.fa-linkedin{
+	background: gray;
+    padding: 6px 9px;
+    border-radius: 20px;
+}
+
+.fa.fa-envelope{
+	background: gray;
+    padding: 6px 9px;
+    border-radius: 20px;
+}
+
+.portfolio{
+	width: 100%;
+    float: left;
+    background: #FFDD99;
+    padding: 35px 0px;
+}
+
+.portfolio-text{
+	width: 50%;
+    text-align: center;
+    margin: 15px auto;
+}
+
+.portfolio-text h1{
+	text-transform: capitalize;
+    font-size: 30px;
+}
+
+.portfolio-text span{
+	border-bottom: 2px solid black;
+    width: 12%;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+.portfolio-text p{
+	text-align: center;
+    margin-bottom: 15px;
+}
+
+.portfolio-btn{
+	background: #50505069;
+    color: white;
+    border: none;
+    padding: 8px 8px;
+    margin: 10px 8px;
+    text-transform: uppercase;
+}
+
+.portfolio-area{
+	width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.portfolio-area img{
+	width: 500px;
+}
+
+.portfolio-area p{
+	text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 15px auto;
+}
+
+.portfolio-area-one{
+	width: 50%;
+    float: left;
+    text-align: center;
+}
+
+.portfolio-area-one img{
+	width: 500px;
+}
+
+.portfolio-area-one p{
+	text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin: 15px auto;
+}
+
+.portfolio-area-btn{
+	background: #26CABB;
+    color: white;
+    margin: 0 auto;
+    display: block;
+    border: none;
+    padding: 16px 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+
+.aboutus{
+	width: 100%;
+    float: left;
+    background: #D74680;
+}
+
+.about-text {
+	text-align: center;
+    color: white;
+    margin: 35px auto;
+}
+}
+
+.about-text h1{
+	text-transform: uppercase;
+    font-size: 30px;
+
+}
+
+.about-text span{
+	border-bottom: 2px solid black;
+    display: inline-block;
+    width: 12%;
+    margin: 10px auto;
+}
+
+.about-text p{
+	padding-bottom: 25px;
+}
+
+.about-area{
+	width: 50%;
+    float: left;
+    color: white;
+}
+
+.about-area img{
+	width: 150px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.about-area p{
+	margin: 24px;
+    float: right;
+    width: 65%;
+}
+
+.about-area h3{
+	text-transform: uppercase;
+    float: right;
+    width: 70%;
+    margin-top: -90px;
+    font-size: 23px;
+}
+
+.about-area h4{
+	color: yellow;
+    font-size: 12px;
+    float: right;
+    width: 69%;
+    margin-top: -65px;
+}
+
+.getintouch{
+	width: 100%;
+    float: left;
+    background: #3C5499;
+    text-align: center;
+    padding: 25px 0px;
+}
+
+.form-text {
+	color: white;
+}
+
+.form-text h1{
+	text-transform: uppercase;
+}
+
+.form-text span{
+	border-bottom: 2px solid black;
+    width: 12%;
+    display: inline-block;
+    margin: 10px auto;
+}
+
+
+.form-text p{
+	margin-bottom: 25px;
+}
+
+.form{
+	width: 50%;
+    margin: 0 auto;
+}
+
+.form-control{
+	background: #00000052;
+    color: white;
+    border: none;
+    padding: 5px 15px;
+}
+
+.text-control{
+	background: #00000052;
+    color: white;
+    margin: 10px auto;
+    padding: 0px 232px 107px 10px;
+    border: none;
+}
+
+.message-btn{
+	background: #30D0C1;
+    color: white;
+    padding: 15px 30px;
+    margin: 12px 0px;
+    border: none;
+    box-shadow: 1px 4px 2px #30d0c1d6;
+    text-transform: uppercase;
+    font-weight: bold;
+}
